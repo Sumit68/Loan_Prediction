@@ -21,3 +21,9 @@ This is a simple loan approval prediction model using Dream Housing Finance Comp
 
 ## Data Source:
 - Kaggle
+
+## Demo
+![](Demo.gif)
+
+## Author
+- Sumit Kothari
