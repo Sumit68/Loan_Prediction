@@ -23,7 +23,7 @@ This is a simple loan approval prediction model using Dream Housing Finance Comp
 - Kaggle
 
 ## Demo
-![](Demo.gif)
+![](Demo.GIF)
 
 ## Author
 - Sumit Kothari
